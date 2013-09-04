@@ -1,14 +1,19 @@
 homework
 ========
-This is the page where I track my homework.<br>
 
 Set up Dropbox <em>done</em><br>
-Set up Gravatar<em>done</em><br>
-Set up Twitter<em>done</em><br>
-Commit to Github 1x per day<br>
+Set up Gravatar <em>done</em><br>
+Set up Twitter <em>done</em><br>
 Create Massage Web Page on Bootstrap<br>
+Practice Bootstrap from scratch until creating a page in 3 min.<br>
 Review Chuck's mini-curriculum<br>
 Review Boot Camp materials<br>
+
+<br>
+<h5>Ongoing</h5>
+Commit to Github 1x per day at least<br>
+Create/Maintain Resources page<br>
+Create/Maintain blog<b>
 <br>
 <h4>Homework from Chuck's curriculum</h4>
 
